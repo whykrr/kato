@@ -2,17 +2,19 @@
 
 namespace App\Models;
 
+use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 /**
- * Category Model
+ * Subcategory
  * 
  * @property int $id
+ * @property int $category_id
  * @property string $name
  * @property string $icon
  */
-class CategoryModel extends Model
+class SubcategoryModel extends Model
 {
     use HasFactory;
 
@@ -21,7 +23,7 @@ class CategoryModel extends Model
      *
      * @var string
      */
-    protected $table = 'categories';
+    protected $table = 'subcategories';
 
     /**
      * The primary key associated with the table.
@@ -33,10 +35,11 @@ class CategoryModel extends Model
     /**
      * The attributes that are mass assignable.
      *
-     * @var array
+     * @var array<int, string>
      */
     protected $fillable = [
+        'category_id',
         'name',
-        'icon'
+        'icon',
     ];
 }
