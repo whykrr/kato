@@ -16,7 +16,8 @@ return new class extends Migration
         Schema::create('categories', function (Blueprint $table) {
             $table->integer('id')->unsigned()->autoIncrement();
             $table->string('name', 100);
-            $table->text('icon')->nullable();
+            $table->text('image')->nullable();
+            $table->boolean('flag')->default(true);
         });
     }
 

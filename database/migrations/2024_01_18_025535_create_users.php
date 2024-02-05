@@ -20,11 +20,9 @@ return new class extends Migration
             $table->string('phone', 25);
             $table->text('password');
             $table->rememberToken();
-            $table->string('referral_code', 20);
+            $table->string('referral_code', 20)->nullable();
             $table->string('email_verified_token', 100);
-            $table->timestamp('email_verified__at')->nullable();
-            $table->string('phone_verified_code', 6);
-            $table->timestamp('phone_verified_at')->nullable();
+            $table->timestamp('email_verified_at')->nullable();
             $table->timestamps();
             $table->softDeletes();
         });

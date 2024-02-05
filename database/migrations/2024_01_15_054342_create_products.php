@@ -23,6 +23,7 @@ return new class extends Migration
             $table->integer('category_id')->unsigned()->nullable();
             $table->integer('subcategory_id')->unsigned()->nullable();
             $table->text('description')->nullable();
+            $table->boolean('is_active')->nullable()->default(true);
             $table->timestamps();
             $table->softDeletes();
 
