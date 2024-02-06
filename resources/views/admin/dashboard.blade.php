@@ -14,7 +14,7 @@
                             <div>
                                 <div class="fs-4 fw-semibold">26K <span class="fs-6 fw-normal">(-12.4%
                                         <svg class="icon">
-                                            <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-arrow-bottom">
+                                            <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-arrow-bottom">
                                             </use>
                                         </svg>)</span></div>
                                 <div>Users</div>
@@ -23,7 +23,7 @@
                                 <button class="btn btn-transparent text-white p-0" type="button"
                                     data-coreui-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     <svg class="icon">
-                                        <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                        <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                         </use>
                                     </svg>
                                 </button>
@@ -45,7 +45,7 @@
                             <div>
                                 <div class="fs-4 fw-semibold">$6.200 <span class="fs-6 fw-normal">(40.9%
                                         <svg class="icon">
-                                            <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-arrow-top">
+                                            <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-arrow-top">
                                             </use>
                                         </svg>)</span></div>
                                 <div>Income</div>
@@ -54,7 +54,7 @@
                                 <button class="btn btn-transparent text-white p-0" type="button"
                                     data-coreui-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     <svg class="icon">
-                                        <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                        <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                         </use>
                                     </svg>
                                 </button>
@@ -76,7 +76,7 @@
                             <div>
                                 <div class="fs-4 fw-semibold">2.49% <span class="fs-6 fw-normal">(84.7%
                                         <svg class="icon">
-                                            <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-arrow-top">
+                                            <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-arrow-top">
                                             </use>
                                         </svg>)</span></div>
                                 <div>Conversion Rate</div>
@@ -85,7 +85,7 @@
                                 <button class="btn btn-transparent text-white p-0" type="button"
                                     data-coreui-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     <svg class="icon">
-                                        <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                        <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                         </use>
                                     </svg>
                                 </button>
@@ -107,7 +107,7 @@
                             <div>
                                 <div class="fs-4 fw-semibold">44K <span class="fs-6 fw-normal">(-23.6%
                                         <svg class="icon">
-                                            <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-arrow-bottom">
+                                            <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-arrow-bottom">
                                             </use>
                                         </svg>)</span></div>
                                 <div>Sessions</div>
@@ -116,7 +116,7 @@
                                 <button class="btn btn-transparent text-white p-0" type="button"
                                     data-coreui-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     <svg class="icon">
-                                        <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                        <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                         </use>
                                     </svg>
                                 </button>
@@ -155,7 +155,7 @@
                             </div>
                             <button class="btn btn-primary" type="button">
                                 <svg class="icon">
-                                    <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-cloud-download">
+                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-cloud-download">
                                     </use>
                                 </svg>
                             </button>
@@ -216,7 +216,7 @@
                     <div class="card mb-4" style="--cui-card-cap-bg: #3b5998">
                         <div class="card-header position-relative d-flex justify-content-center align-items-center">
                             <svg class="icon icon-3xl text-white my-4">
-                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-facebook-f"></use>
+                                <use xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-facebook-f"></use>
                             </svg>
                             <div class="chart-wrapper position-absolute top-0 start-0 w-100 h-100">
                                 <canvas id="social-box-chart-1" height="90"></canvas>
@@ -240,7 +240,7 @@
                     <div class="card mb-4" style="--cui-card-cap-bg: #00aced">
                         <div class="card-header position-relative d-flex justify-content-center align-items-center">
                             <svg class="icon icon-3xl text-white my-4">
-                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-twitter"></use>
+                                <use xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-twitter"></use>
                             </svg>
                             <div class="chart-wrapper position-absolute top-0 start-0 w-100 h-100">
                                 <canvas id="social-box-chart-2" height="90"></canvas>
@@ -264,7 +264,7 @@
                     <div class="card mb-4" style="--cui-card-cap-bg: #4875b4">
                         <div class="card-header position-relative d-flex justify-content-center align-items-center">
                             <svg class="icon icon-3xl text-white my-4">
-                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-linkedin"></use>
+                                <use xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-linkedin"></use>
                             </svg>
                             <div class="chart-wrapper position-absolute top-0 start-0 w-100 h-100">
                                 <canvas id="social-box-chart-3" height="90"></canvas>
@@ -433,7 +433,7 @@
                                     <div class="progress-group">
                                         <div class="progress-group-header">
                                             <svg class="icon icon-lg me-2">
-                                                <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-user">
+                                                <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-user">
                                                 </use>
                                             </svg>
                                             <div>Male</div>
@@ -450,7 +450,8 @@
                                     <div class="progress-group mb-5">
                                         <div class="progress-group-header">
                                             <svg class="icon icon-lg me-2">
-                                                <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-user-female">
+                                                <use
+                                                    xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-user-female">
                                                 </use>
                                             </svg>
                                             <div>Female</div>
@@ -467,7 +468,7 @@
                                     <div class="progress-group">
                                         <div class="progress-group-header">
                                             <svg class="icon icon-lg me-2">
-                                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-google">
+                                                <use xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-google">
                                                 </use>
                                             </svg>
                                             <div>Organic Search</div>
@@ -485,7 +486,8 @@
                                     <div class="progress-group">
                                         <div class="progress-group-header">
                                             <svg class="icon icon-lg me-2">
-                                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-facebook-f">
+                                                <use
+                                                    xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-facebook-f">
                                                 </use>
                                             </svg>
                                             <div>Facebook</div>
@@ -503,7 +505,7 @@
                                     <div class="progress-group">
                                         <div class="progress-group-header">
                                             <svg class="icon icon-lg me-2">
-                                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-twitter">
+                                                <use xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-twitter">
                                                 </use>
                                             </svg>
                                             <div>Twitter</div>
@@ -521,7 +523,7 @@
                                     <div class="progress-group">
                                         <div class="progress-group-header">
                                             <svg class="icon icon-lg me-2">
-                                                <use xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-linkedin">
+                                                <use xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-linkedin">
                                                 </use>
                                             </svg>
                                             <div>LinkedIn</div>
@@ -545,7 +547,7 @@
                                         <tr class="align-middle">
                                             <th class="text-center">
                                                 <svg class="icon">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-people">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-people">
                                                     </use>
                                                 </svg>
                                             </th>
@@ -561,7 +563,7 @@
                                         <tr class="align-middle">
                                             <td class="text-center">
                                                 <div class="avatar avatar-md"><img class="avatar-img"
-                                                        src="admin/assets/img/avatars/1.jpg" alt="user@email.com"><span
+                                                        src="coreui/assets/img/avatars/1.jpg" alt="user@email.com"><span
                                                         class="avatar-status bg-success"></span></div>
                                             </td>
                                             <td>
@@ -571,7 +573,7 @@
                                             </td>
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/flag.svg#cif-us">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/flag.svg#cif-us">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -592,7 +594,7 @@
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
                                                     <use
-                                                        xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-cc-mastercard">
+                                                        xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-cc-mastercard">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -607,7 +609,7 @@
                                                         aria-expanded="false">
                                                         <svg class="icon">
                                                             <use
-                                                                xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                                                xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                                             </use>
                                                         </svg>
                                                     </button>
@@ -621,7 +623,7 @@
                                         <tr class="align-middle">
                                             <td class="text-center">
                                                 <div class="avatar avatar-md"><img class="avatar-img"
-                                                        src="admin/assets/img/avatars/2.jpg" alt="user@email.com"><span
+                                                        src="coreui/assets/img/avatars/2.jpg" alt="user@email.com"><span
                                                         class="avatar-status bg-danger"></span></div>
                                             </td>
                                             <td>
@@ -631,7 +633,7 @@
                                             </td>
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/flag.svg#cif-br">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/flag.svg#cif-br">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -652,7 +654,7 @@
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
                                                     <use
-                                                        xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-cc-visa">
+                                                        xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-cc-visa">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -667,7 +669,7 @@
                                                         aria-expanded="false">
                                                         <svg class="icon">
                                                             <use
-                                                                xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                                                xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                                             </use>
                                                         </svg>
                                                     </button>
@@ -681,7 +683,7 @@
                                         <tr class="align-middle">
                                             <td class="text-center">
                                                 <div class="avatar avatar-md"><img class="avatar-img"
-                                                        src="admin/assets/img/avatars/3.jpg" alt="user@email.com"><span
+                                                        src="coreui/assets/img/avatars/3.jpg" alt="user@email.com"><span
                                                         class="avatar-status bg-warning"></span></div>
                                             </td>
                                             <td>
@@ -691,7 +693,7 @@
                                             </td>
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/flag.svg#cif-in">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/flag.svg#cif-in">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -713,7 +715,7 @@
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
                                                     <use
-                                                        xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-cc-stripe">
+                                                        xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-cc-stripe">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -728,7 +730,7 @@
                                                         aria-expanded="false">
                                                         <svg class="icon">
                                                             <use
-                                                                xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                                                xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                                             </use>
                                                         </svg>
                                                     </button>
@@ -742,7 +744,7 @@
                                         <tr class="align-middle">
                                             <td class="text-center">
                                                 <div class="avatar avatar-md"><img class="avatar-img"
-                                                        src="admin/assets/img/avatars/4.jpg" alt="user@email.com"><span
+                                                        src="coreui/assets/img/avatars/4.jpg" alt="user@email.com"><span
                                                         class="avatar-status bg-secondary"></span></div>
                                             </td>
                                             <td>
@@ -752,7 +754,7 @@
                                             </td>
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/flag.svg#cif-fr">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/flag.svg#cif-fr">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -774,7 +776,7 @@
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
                                                     <use
-                                                        xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-cc-paypal">
+                                                        xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-cc-paypal">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -789,7 +791,7 @@
                                                         aria-expanded="false">
                                                         <svg class="icon">
                                                             <use
-                                                                xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                                                xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                                             </use>
                                                         </svg>
                                                     </button>
@@ -803,7 +805,7 @@
                                         <tr class="align-middle">
                                             <td class="text-center">
                                                 <div class="avatar avatar-md"><img class="avatar-img"
-                                                        src="admin/assets/img/avatars/5.jpg" alt="user@email.com"><span
+                                                        src="coreui/assets/img/avatars/5.jpg" alt="user@email.com"><span
                                                         class="avatar-status bg-success"></span></div>
                                             </td>
                                             <td>
@@ -813,7 +815,7 @@
                                             </td>
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/flag.svg#cif-es">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/flag.svg#cif-es">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -835,7 +837,7 @@
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
                                                     <use
-                                                        xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-cc-apple-pay">
+                                                        xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-cc-apple-pay">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -850,7 +852,7 @@
                                                         aria-expanded="false">
                                                         <svg class="icon">
                                                             <use
-                                                                xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                                                xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                                             </use>
                                                         </svg>
                                                     </button>
@@ -864,7 +866,7 @@
                                         <tr class="align-middle">
                                             <td class="text-center">
                                                 <div class="avatar avatar-md"><img class="avatar-img"
-                                                        src="admin/assets/img/avatars/6.jpg" alt="user@email.com"><span
+                                                        src="coreui/assets/img/avatars/6.jpg" alt="user@email.com"><span
                                                         class="avatar-status bg-danger"></span></div>
                                             </td>
                                             <td>
@@ -874,7 +876,7 @@
                                             </td>
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="admin/vendors/@coreui/icons/svg/flag.svg#cif-pl">
+                                                    <use xlink:href="coreui/vendors/@coreui/icons/svg/flag.svg#cif-pl">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -896,7 +898,7 @@
                                             <td class="text-center">
                                                 <svg class="icon icon-xl">
                                                     <use
-                                                        xlink:href="admin/vendors/@coreui/icons/svg/brand.svg#cib-cc-amex">
+                                                        xlink:href="coreui/vendors/@coreui/icons/svg/brand.svg#cib-cc-amex">
                                                     </use>
                                                 </svg>
                                             </td>
@@ -911,7 +913,7 @@
                                                         aria-expanded="false">
                                                         <svg class="icon">
                                                             <use
-                                                                xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-options">
+                                                                xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-options">
                                                             </use>
                                                         </svg>
                                                     </button>
@@ -936,8 +938,8 @@
 @endsection
 
 @section('script')
-    <script src="admin/vendors/chart.js/js/chart.min.js"></script>
-    <script src="admin/vendors/@coreui/chartjs/js/coreui-chartjs.js"></script>
-    <script src="admin/vendors/@coreui/utils/js/coreui-utils.js"></script>
-    <script src="admin/js/main.js"></script>
+    <script src="coreui/vendors/chart.js/js/chart.min.js"></script>
+    <script src="coreui/vendors/@coreui/chartjs/js/coreui-chartjs.js"></script>
+    <script src="coreui/vendors/@coreui/utils/js/coreui-utils.js"></script>
+    <script src="coreui/js/main.js"></script>
 @endsection

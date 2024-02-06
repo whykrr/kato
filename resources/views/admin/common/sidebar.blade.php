@@ -1,10 +1,10 @@
 <div class="sidebar sidebar-dark sidebar-fixed" id="sidebar">
     <div class="sidebar-brand d-none d-md-flex">
         <svg class="sidebar-brand-full" width="118" height="46" alt="CoreUI Logo">
-            <use xlink:href="admin/assets/brand/coreui.svg#full"></use>
+            <use xlink:href="coreui/assets/brand/coreui.svg#full"></use>
         </svg>
         <svg class="sidebar-brand-narrow" width="46" height="46" alt="CoreUI Logo">
-            <use xlink:href="admin/assets/brand/coreui.svg#signet"></use>
+            <use xlink:href="coreui/assets/brand/coreui.svg#signet"></use>
         </svg>
     </div>
     <ul class="sidebar-nav" data-coreui="navigation" data-simplebar="">
@@ -15,7 +15,7 @@
         <li class="nav-group">
             <a class="nav-link nav-group-toggle" href="#">
                 <svg class="nav-icon">
-                    <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-3d"></use>
+                    <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-3d"></use>
                 </svg> Product
             </a>
             <ul class="nav-group-items">

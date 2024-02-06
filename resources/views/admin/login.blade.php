@@ -17,31 +17,31 @@
     <meta name="author" content="Łukasz Holeczek">
     <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
     <title>CoreUI Free Bootstrap Admin Template</title>
-    <link rel="apple-touch-icon" sizes="57x57" href="admin/assets/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="admin/assets/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="admin/assets/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="admin/assets/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="admin/assets/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="admin/assets/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="admin/assets/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="admin/assets/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="admin/assets/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="admin/assets/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="admin/assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="admin/assets/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="admin/assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="admin/assets/favicon/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="coreui/assets/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="coreui/assets/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="coreui/assets/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="coreui/assets/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="coreui/assets/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="coreui/assets/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="coreui/assets/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="coreui/assets/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="coreui/assets/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="coreui/assets/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="coreui/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="coreui/assets/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="coreui/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="coreui/assets/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="admin/assets/favicon/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="coreui/assets/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <!-- Vendors styles-->
-    <link rel="stylesheet" href="admin/vendors/simplebar/css/simplebar.css">
-    <link rel="stylesheet" href="admin/css/vendors/simplebar.css">
+    <link rel="stylesheet" href="coreui/vendors/simplebar/css/simplebar.css">
+    <link rel="stylesheet" href="coreui/css/vendors/simplebar.css">
     <!-- Main styles for this application-->
-    <link href="admin/css/style.css" rel="stylesheet">
+    <link href="coreui/css/style.css" rel="stylesheet">
     <!-- We use those styles to show code examples, you should remove them in your application.-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism.css">
-    <link href="admin/css/examples.css" rel="stylesheet">
+    <link href="coreui/css/examples.css" rel="stylesheet">
     <!-- Global site tag (gtag.js) - Google Analytics-->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-3"></script>
     <script>
@@ -71,13 +71,13 @@
                                 <p class="text-medium-emphasis">Sign In to your account</p>
                                 <div class="input-group mb-3"><span class="input-group-text">
                                         <svg class="icon">
-                                            <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-user"></use>
+                                            <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-user"></use>
                                         </svg></span>
                                     <input class="form-control" type="text" name="email" placeholder="Email">
                                 </div>
                                 <div class="input-group mb-4"><span class="input-group-text">
                                         <svg class="icon">
-                                            <use xlink:href="admin/vendors/@coreui/icons/svg/free.svg#cil-lock-locked">
+                                            <use xlink:href="coreui/vendors/@coreui/icons/svg/free.svg#cil-lock-locked">
                                             </use>
                                         </svg></span>
                                     <input class="form-control" type="password" name="password" placeholder="Password">
@@ -98,8 +98,8 @@
         </div>
     </div>
     <!-- CoreUI and necessary plugins-->
-    <script src="admin/vendors/@coreui/coreui/js/coreui.bundle.min.js"></script>
-    <script src="admin/vendors/simplebar/js/simplebar.min.js"></script>
+    <script src="coreui/vendors/@coreui/coreui/js/coreui.bundle.min.js"></script>
+    <script src="coreui/vendors/simplebar/js/simplebar.min.js"></script>
     <!-- We use those scripts to show code examples, you should remove them in your application.-->
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/prism.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/plugins/autoloader/prism-autoloader.min.js"></script>
